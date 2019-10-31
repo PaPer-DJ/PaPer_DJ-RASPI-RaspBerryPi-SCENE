@@ -12,8 +12,12 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
 
 * RasPi Images | SYSTEMS Builds
   - https://retropie.org.uk/forum/category/9/projects-and-themes
+  - https://retropie.org.uk/forum/topic/23539/gameboy-build
+  - 
   
 --------------------------------------------------------------------
   
 * Related RetroPie STUFF
   - https://retropie.org.uk/forum/topic/9094/updated-emulationstation-for-windows
+  - https://retropie.org.uk/forum/topic/22003/soft-arrm-another-gamelist-roms-manager-and-scraper-for-recalbox-batocera-retropie
+  - 

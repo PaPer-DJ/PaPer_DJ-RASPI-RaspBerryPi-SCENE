@@ -20,8 +20,11 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
 * Related RetroPie STUFF
   - https://retropie.org.uk/forum/topic/9094/updated-emulationstation-for-windows
   - https://retropie.org.uk/forum/topic/22003/soft-arrm-another-gamelist-roms-manager-and-scraper-for-recalbox-batocera-retropie
+  
+  
   - https://retropie.org.uk/forum/topic/23564/metal-slug-splashscreen-video
       - https://drive.google.com/file/d/1tlM4045_hRWJDRZzh2U3cjo85EHoKgLV/view
+      - https://retropie.org.uk/forum/topic/22991/custom-retropie-splash-screen-collection-part-ii
  
 --------------------------------------------------------------------
 

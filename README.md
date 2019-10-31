@@ -30,8 +30,10 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
   - https://retropie.org.uk/forum/topic/15830/chicuelo-theme
   
 ##  - http://forum.attractmode.org/index.php?topic=2784.0
-  -   - https://github.com/randombyt/Chicuelo-Mix
- 
+     - https://github.com/randombyt/Chicuelo-Mix
+     
+  - https://www.onyxarcade.com/nevato.html
+  - http://forum.attractmode.org/index.php?topic=370.0
 --------------------------------------------------------------------
 
 # Arcade Projects & BUILDS

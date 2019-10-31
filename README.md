@@ -17,7 +17,7 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
   
 --------------------------------------------------------------------
   
-* Related RetroPie STUFF
+* Related RetroPie STUFF & THEMES
   - https://retropie.org.uk/forum/topic/9094/updated-emulationstation-for-windows
   - https://retropie.org.uk/forum/topic/22003/soft-arrm-another-gamelist-roms-manager-and-scraper-for-recalbox-batocera-retropie
   
@@ -25,6 +25,9 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
   - https://retropie.org.uk/forum/topic/23564/metal-slug-splashscreen-video
       - https://drive.google.com/file/d/1tlM4045_hRWJDRZzh2U3cjo85EHoKgLV/view
       - https://retropie.org.uk/forum/topic/22991/custom-retropie-splash-screen-collection-part-ii
+      
+  - https://github.com/chicueloarcade/es-theme-Chicuelo#supported-systems
+  - https://retropie.org.uk/forum/topic/15830/chicuelo-theme
  
 --------------------------------------------------------------------
 
@@ -37,6 +40,7 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
   - https://retropie.org.uk/forum/topic/9980/my-upright-arcade-cabinet-build
   - https://retropie.org.uk/forum/topic/17942/wall-hanging-modern-cabinet-build/4
   - https://retropie.org.uk/forum/topic/20229/bartop-arcade-retronator-on-raspberry-pi-3-model-b/2
+  - https://retropie.org.uk/forum/topic/4934/pixel-art-themed-bartop-arcade
   
   
 #  - https://retropie.org.uk/forum/tags/cabinet%20build

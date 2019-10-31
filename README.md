@@ -45,6 +45,6 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
   - https://retropie.org.uk/forum/topic/4934/pixel-art-themed-bartop-arcade
   
   
-#  - https://retropie.org.uk/forum/tags/cabinet%20build
-
+##  - https://retropie.org.uk/forum/tags/cabinet%20build
+  - https://github.com/randombyt/Chicuelo-Mix
 

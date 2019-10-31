@@ -16,7 +16,7 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
   - https://retropie.org.uk/forum/topic/23682/theme-gpios-based-on-gameos-pegasus-front-end-theme-modified-for-retroflag-gpi-case
   
 ###  - http://forum.attractmode.org/index.php?topic=1072.0 (Ptiwee's Buildroot (AM + RetroArch) Images)
-     - http://forum.attractmode.org/index.php?topic=705.0 (Floob's Attract-Mode + RetroPie Image)
+   - http://forum.attractmode.org/index.php?topic=705.0 (Floob's Attract-Mode + RetroPie Image)
   
 --------------------------------------------------------------------
   

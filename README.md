@@ -28,6 +28,8 @@ PaPer_DJ [RASPI] RaspBerry Pi SCENE &amp; Arcade Stuff
       
   - https://github.com/chicueloarcade/es-theme-Chicuelo#supported-systems
   - https://retropie.org.uk/forum/topic/15830/chicuelo-theme
+  
+#  - http://forum.attractmode.org/index.php?topic=2784.0
  
 --------------------------------------------------------------------
 
